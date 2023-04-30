@@ -1,0 +1,3 @@
+src/image/
+src/recv_images/
+*.o
